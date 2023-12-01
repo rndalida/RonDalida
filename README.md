@@ -35,5 +35,5 @@ Hey there, I'm Ron Jansen Dalida, a student navigating the world of coding and d
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ron-jansen-dalida-4117892a2/)
 - **Email:** dalidaronjansen@gmail.com
 
-Feel free to connect, and let's collab together! 
+ Feel free to connect, and let's collab together! 
 
