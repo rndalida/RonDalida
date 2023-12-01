@@ -3,7 +3,7 @@ Hello! I'm Ron Jansen Dalida 👋
 
 # About Me:
 
-I am 
+I am Ron Jansen Dalida, just want to learn technology
 
 ## Education
 
@@ -13,7 +13,7 @@ I am
 
 ## Certifications
 
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](Certification_Link1)
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA93B30CEAA887D5871BBBFD46B84BEC30C0235024D553F79D4DA463218B5225&fbclid=IwAR1h2-DaJ_k1hEOwgrbgaqeLpsQLZ_tvQb4Aw5PRoeGPO5zzPA2p6o694sY1)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](Certification_Link2)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Certification_Link3)
 - [SQL and Relational Databases 101](Certification_Link4)
