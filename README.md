@@ -1,9 +1,9 @@
 # RonDalida
 Hello! I'm Ron Jansen Dalida 👋 
 
-# Hi there, I'm Juan Dela Cruz! 👋
+# About Me:
 
-I am a passionate coder with strong database management skills. I enjoy solving complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been continuously learning and growing ever since.
+I am 
 
 ## Education
 
