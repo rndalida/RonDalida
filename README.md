@@ -23,7 +23,7 @@ Hey there, I'm Ron Jansen Dalida, a student navigating the world of coding and d
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BE88B2AAFE44B4133AEAA093BF2880969E3D7BFC90C817F758B590FE4878E8F1&fbclid=IwAR1y3v_-eXIEPx53ML-FmNyKYVLhKT-La0fg3yLGniahHV4Kq_3di7iAU0A2)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0DACB7C9E17E53658D324213AE551DA472BF5BD62C93E12968F4E30B8137347D&fbclid=IwAR1we_a2GtpEJ9AwhCPaS4IHnKpgCHvdl-9wV47PjXPdjwl4EY7pDK-z858)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b9431ce255b54a128f91834932e95d1a)
-- .[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a29ae0e4a4344c9e8a6953f2b850e722)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a29ae0e4a4344c9e8a6953f2b850e722)
 
 ## Skill Sets
 
