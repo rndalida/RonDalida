@@ -25,6 +25,7 @@ Hey there, I'm Ron Jansen Dalida, a student navigating the world of coding and d
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b9431ce255b54a128f91834932e95d1a)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a29ae0e4a4344c9e8a6953f2b850e722)
 - [Introduction to Cybersecurity](https://www.credly.com/badges/9e13a48d-ce1c-4367-8d94-66f97cd5ad18/public_url)
+- [Ethical Hacker](https://www.credly.com/badges/0253ac9c-53ee-4b63-990a-fea37fe2d4b5/public_url)
 
 ## Skill Sets
 
